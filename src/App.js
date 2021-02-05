@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, rem.</p>
         </a>
       </header>
     </div>
